@@ -1,0 +1,12 @@
+[submodule "SigmaTauShip"]
+	path = SigmaTauShip
+	url = https://github.com/SigmaTauProject/SigmaTauShip.git
+[submodule "terminal"]
+	path = terminal
+	url = https://github.com/SigmaTauProject/SigmaTauTerminal.git
+[submodule "Stigma"]
+	path = Stigma
+	url = https://github.com/SigmaTauProject/Stigma.git
+[submodule "stigma_protocol"]
+	path = stigma_protocol
+	url = https://github.com/SigmaTauProject/stigma_protocol.git
