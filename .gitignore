@@ -1,8 +1,8 @@
-code/.dub
-code/docs.json
-code/__dummy.html
-code/docs/
-code/build/
+.dub
+docs.json
+__dummy.html
+docs/
+build/
 *.exe
 *.o
 *.obj
